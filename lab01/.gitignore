@@ -1,0 +1,10 @@
+*
+!.gitignore
+!ex1_hello.c
+!ex2_pointers_and_functions.c
+!ex3_arrays.c
+!ex4_pointer_arithmetic.c
+!ex5_strings.c
+!ex6_strcpy.c
+!ex6_strcpy_fixed.c
+!ex7_structs.c
