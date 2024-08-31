@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-  // TODO: allocate memory to store the string "hello"
+  // TODO: Create space to store the string "hello"
   // Hint: how many bytes do we need to store this string?
   ______ hello_str[______];
 
@@ -25,7 +25,7 @@ int main() {
   // TODO: print the length of hello_str
   printf("length of hello: %lu\n", ______(hello_str));
 
-  // TODO: allocate memory to store the string "world"
+  // TODO: create space to store the string "world"
   ______ world_str[______];
 
   // TODO: fill in the type
@@ -49,7 +49,7 @@ int main() {
   ______ ptr_to_r = ____________;
   printf("address of 'r': %p\n", ptr_to_r);
 
-  // TODO: allocate memory to store the string "hello world"
+  // TODO: create space to store the string "hello world"
   ______ hello_world_str[______];
 
   // TODO: use strcpy and hello_str to store

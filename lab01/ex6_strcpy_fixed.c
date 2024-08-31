@@ -3,7 +3,7 @@
 #include <string.h>
 
 int main() {
-  // TODO: Allocate memory to store the string "hello"
+  // TODO: Create space to store the string "hello"
   // You may use your solution from a previous exercise;
   ______ message[______];
   ______ = 'h';

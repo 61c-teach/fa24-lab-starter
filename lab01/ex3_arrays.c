@@ -7,7 +7,7 @@ int main() {
   // Note: int8_t is a numerical datatype that takes up 1 byte of memory
   int8_t x = 5;
 
-  // TODO: allocate an int8_t array of size 4
+  // TODO: create an int8_t array of size 4
   ______ some_array[______];
   printf("address of the start of the array: %p\n", some_array);
 
