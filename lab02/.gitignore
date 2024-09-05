@@ -1,0 +1,17 @@
+*
+!.gitignore
+!bork.c
+!ex1_compiler_warnings.c
+!ex2_commands.txt
+!ex3_commands.txt
+!ex5_answers.txt
+!ex5_segfault.c
+!ex6_answers.txt
+!ex6_valgrind.c
+!ex7_test_vector.c
+!ex7_vector.c
+!ex7_vector.h
+!ex8_double_pointers.c
+!pwd_checker.c
+!pwd_checker.h
+!test_pwd_checker.c
