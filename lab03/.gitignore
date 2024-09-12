@@ -1,0 +1,11 @@
+*
+!.gitignore
+!ex1_hello.s
+!ex2_answers.txt
+!ex3_answers.txt
+!ex3_memcheck.s
+!ex4_discrete_fn.s
+!ex4_discrete_fn_tester.s
+!ex5_factorial.s
+!fib.s
+!utils.s
