@@ -1,0 +1,6 @@
+*
+!.gitignore
+!ex1.s
+!ex2.s
+!ex3.s
+!example_c_to_riscv.s
