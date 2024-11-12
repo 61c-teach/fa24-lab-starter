@@ -1,5 +1,7 @@
 CC=gcc
-CFLAGS_SIMD=-std=c99 -Wall -O0 -c -mavx -mfma -g
+CFLAGS_SIMD=-std=c99 -Wall -O0 -c
+CFLAGS_OMP=-std=gnu99 -fopenmp -c -g
+LDFLAGS_OMP=-fopenmp
 
 ex1: ex1_test.o ex1.o
 	$(CC) $^ -o $@
@@ -27,4 +29,6 @@ ex2.o: ex2.c ex2.h
 
 clean:
 	rm -f ex1
+	rm -f ex2
+	rm -f openmp_example
 	rm -f *.o
